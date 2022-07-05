@@ -339,7 +339,7 @@ def TrackImages():
         "date": datetime.date.today()
         }
     
-    res=requests.post("http://localhost/frrest/mahasiswa",data=data)
+    res=requests.post("http://localhost/frrest/API/mahasiswa",data=data)
     print(res.json())
     csvFile1.close()
     cam.release()
