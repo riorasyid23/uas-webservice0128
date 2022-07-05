@@ -4,3 +4,6 @@
   <li>Nama : Rio Al Rasyid</li>
   <li>NIM  : 19.01.53.0128</li>
 </ul>
+
+<h4>Link Video :</h4>
+<a href="https://youtu.be/kTyp9aIN8RA">https://youtu.be/kTyp9aIN8RA</a>
