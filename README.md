@@ -6,4 +6,4 @@
 </ul>
 
 <h4>Link Video :</h4>
-<a href="https://youtu.be/kTyp9aIN8RA">https://youtu.be/kTyp9aIN8RA</a>
+<a href="https://youtu.be/kTyp9aIN8RA" _blank>https://youtu.be/kTyp9aIN8RA</a>
